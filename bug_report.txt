@@ -1,1 +1,17 @@
+BUG-REPORT №1 – Шрифт тексту в блоці «Переваги» відрізняється від шрифта згідно дизайну
+Reporter: Nataliia Ananina
+Date Submitted: 25.07.2023
+Priority: Low Severity: Trivial
+Platform: Chrome 115.0.5790.98, Opera One 100.0.4815.21  OS: Windows Pro Version OS: 10 x64
+OS: Android OS Version: 10 QKQ1.200512.002
+
+Summary: Шрифт тексту в блоці «Переваги» відрізняється від шрифта згідно дизайну
+
+Steps To Reproduce:
+1.	Відкрити сайт https://resulteng.intita.com
+2.	Перейти до блоку “Переваги".
+3.	Перейти до написів: “Заняття on line“, “Індивідуальний підхід“, “Зв'язок 24/7“, “Розмовний інтенсив“, “Комунікативна методика“, “100% результат“.
+
+Actual result: Текст написаний шрифтом «Segou UI».
+Expected result: Текст написаний шрифтом «Asap».
 
